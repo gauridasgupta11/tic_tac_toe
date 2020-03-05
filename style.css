@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	margin-top: 10px;
+	background-color: pink;
+	text-align: center;
+}
+
+.col{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	text-align: center;
+	background-color: white;
+	margin-top: 2px;
+	font-size: 40px;
+	padding: 20px;
+	padding-top: 30px;
+}
+
+button{
+	padding: 10px;
+	margin-top: 10px;
+	font-size: 20px;
+}
